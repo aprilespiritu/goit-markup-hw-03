@@ -158,6 +158,26 @@ ul {
 section {
     padding: 120px 120px;
 }
+
+.p-page {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cards {
+    padding: 50px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards li {
+    border: 20px;
+}
+
 /*
 .button-box {
     display: flex;
