@@ -155,6 +155,11 @@ ul {
     text-align: center;
 }
 
+.card-item {
+    border: 1px groove var(--light-slate);
+    padding: 5px;
+}
+
 section {
     padding: 120px 120px;
 }
@@ -174,9 +179,6 @@ section {
     align-items: center;
 }
 
-.cards li {
-    border: 20px;
-}
 
 /*
 .button-box {
